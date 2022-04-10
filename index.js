@@ -1,6 +1,6 @@
 let display = document.getElementById('display');
 
-let buttons = Array.fromfrom(document.getElementsByClassName('buttons'))
+let buttons = Array.from(document.getElementsByClassName('buttons'))
 
 
 buttons.map( button => {
